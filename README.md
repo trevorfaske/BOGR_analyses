@@ -1,2 +1,2 @@
-# BOGR_analyses
-Bouteloua gracilis (Blue grama) analyses
+# BOCU_analyses
+Bouteloua curtipendula (sideoats grama) analyses
